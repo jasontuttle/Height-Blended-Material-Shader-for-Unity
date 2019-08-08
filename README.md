@@ -4,6 +4,6 @@ USAGE:
 
 1. This shader supports up to 4 materials.
 
-2. The layers are ordered from bottom to top, so the textures for your first material go in the "M4" slots. The textures for your second material go in the "M3" slots. Etc.
+2. The material layers are ordered from bottom to top, so the textures for your first (bottom) material go in the "M4" slots. The textures for your second material go in the "M3" slots. Etc.
 
 3. You will need to create a pack map for each of your materials. The pack map must have AO in the green channel, Height in the red channel, and Roughness in the blue channel.
